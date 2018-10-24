@@ -11,7 +11,7 @@ Footers help people find what they need after scrolling to the bottom of a web p
 ## Required
 
 ## Visual Example
-
+[relative link](../header/README.md)
 ![Footer](./images/footer.png?raw=true)
 
 ## Use This for:
