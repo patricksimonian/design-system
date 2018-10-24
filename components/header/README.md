@@ -32,14 +32,12 @@ Good examples include:
 ## Last Updated: 2 days ago
 
 ## Visual
-
-![Screenshot][screenshot]
-Header Visual: [![Header-Banner]
-(https://github.com/bcgov/design-system/blob/master/components/header/images/header.png)]
+Header Visual:
+![Header](https://github.com/bcgov/design-system/blob/master/components/header/images/header.png?raw=true)
 
 ## Use This For
 
-*	All public-facing online B.C. government content and services.
+*	All public-facing online B.C. Government content and services.
 *	Websites or apps that do not require navigation built into the header.
 
 ## Don't Use This For
@@ -197,5 +195,3 @@ header {
 2.	Font download or reference link
 
 _Last Updated: 2018-10-23_
-
-[screenshot]: images/header.png "Screenshot"
