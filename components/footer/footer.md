@@ -1,6 +1,6 @@
 ---
 description: Footer help users understand what the content of the page is about and provides a quick, organized way to reach the main sections of a website.
-title: Footer - Basic
+title: Footer - test
 status: Draft
 ---
 > Draft
@@ -12,7 +12,7 @@ Footers help people find what they need after scrolling to the bottom of a web p
 
 ## Visual Example
 
-![Footer](https://github.com/bcgov/design-system/blob/footer-f/components/footer/images/footer.png?raw=true)
+![Footer](./images/footer.png?raw=true)
 
 ## Use This for:
 All public-facing B.C. Government online content and services
