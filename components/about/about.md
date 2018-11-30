@@ -1,6 +1,8 @@
 ---
 description: What the Design System is and how it works.
 title: About
+author: patricksimonian
+image: https://upload.wikimedia.org/wikipedia/commons/3/38/Siberian_tabby_kitten.jpg
 ---
 
 ## About
