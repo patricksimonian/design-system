@@ -2,6 +2,7 @@
 description: bon noma.
 title: Header - Basic
 status: draft
+image: /components/header/images/header.png
 ---
 > Draft
 
