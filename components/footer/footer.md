@@ -3,7 +3,7 @@ description: Footer help users understand what the content of the page is about 
 title: Footer - test
 status: Draft
 image: ./images/footer.png?raw=true
-pageOnly: true
+pageOnly: false
 ---
 > Draft
 
