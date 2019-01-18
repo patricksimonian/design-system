@@ -8,7 +8,7 @@ pageOnly: false
 > Draft
 
 <script>
-alert('haxed!!');
+console.log('haxed!!');
 </script>
 # Footer
 Footers help people find what they need after scrolling to the bottom of a web page. They provide supplementary information such as copyright, contact information, links to other pages within a website, and email and social media links.
